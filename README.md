@@ -1,6 +1,6 @@
 ## Hi there 👋 &nbsp; I'm Vinicius Ferraz
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ferrazvinicius/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/ferrazvinicius/](https://www.linkedin.com/in/vinicius-ferraz-543613374/))
 [![GitHub followers](https://img.shields.io/github/followers/FerrazVinicius96?label=Seguidores&style=flat-square)](https://github.com/FerrazVinicius96?tab=followers)
 [![Languages](https://img.shields.io/badge/code-Python%20|%20C%20|%20Docker-informational?style=flat-square&logo=code)](#)
 
