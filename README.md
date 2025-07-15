@@ -28,7 +28,7 @@ I'm a former lawyer now thriving in tech — blending discipline from law with t
 
 ## Olá 👋 &nbsp; Eu sou Vinicius Ferraz
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ferrazvinicius/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/ferrazvinicius/](https://www.linkedin.com/in/vinicius-ferraz-543613374/))
 [![GitHub seguidores](https://img.shields.io/github/followers/FerrazVinicius96?label=Seguidores&style=flat-square)](https://github.com/FerrazVinicius96?tab=followers)
 [![Stacks](https://img.shields.io/badge/stacks-Python%2C%20C%2C%20Docker-informational?style=flat-square)](#)
 
