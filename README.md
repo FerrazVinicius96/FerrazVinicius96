@@ -1,6 +1,6 @@
 ## Hi there 👋 &nbsp; I'm Vinicius Ferraz
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/vinicius-ferraz-543613374/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/vinicius-ferraz-543613374/)
 [![GitHub followers](https://img.shields.io/github/followers/FerrazVinicius96?label=Seguidores&style=flat-square)](https://github.com/FerrazVinicius96?tab=followers)
 [![Languages](https://img.shields.io/badge/code-Python%20|%20C%20|%20Docker-informational?style=flat-square&logo=code)](#)
 
@@ -28,7 +28,7 @@ I'm a former lawyer now thriving in tech — blending discipline from law with t
 
 ## Olá 👋 &nbsp; Eu sou Vinicius Ferraz
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/ferrazvinicius/](https://www.linkedin.com/in/vinicius-ferraz-543613374/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/vinicius-ferraz-543613374/)
 [![GitHub seguidores](https://img.shields.io/github/followers/FerrazVinicius96?label=Seguidores&style=flat-square)](https://github.com/FerrazVinicius96?tab=followers)
 [![Stacks](https://img.shields.io/badge/stacks-Python%2C%20C%2C%20Docker-informational?style=flat-square)](#)
 
@@ -56,11 +56,11 @@ Sou ex-advogado em transição para a tecnologia, unindo o raciocínio jurídico
 
 ### ✨ Repositórios em Destaque
 
-- 🔧 [Sistema de Habilidades em C](https://github.com/FerrazVinicius96/sistema-de-habilidades-em-c) – implementação de matrizes dinâmicas para jogos
-- 🤖 [Agente IA com LangChain](https://github.com/FerrazVinicius96/agente-ia-langchain) – leitura de PDFs com RAG
+- 🔧 [Sistema de Habilidades em C](https://github.com/FerrazVinicius96/sistema-de-habilidades-em-c) – implementação de matrizes dinâmicas para jogos  
+- 🤖 [Agente IA com LangChain](https://github.com/FerrazVinicius96/agente-ia-langchain) – leitura de PDFs com RAG  
 - 🍪 [Cookieteria](https://github.com/FerrazVinicius96/cookieteria) – planejamento inicial da minha microempresa de cookies
 
 ---
 
-📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/ferrazvinicius/)  
+📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/vinicius-ferraz-543613374/)  
 💭 Ou me chame para conversar sobre tech, projetos e cookies 🍪
