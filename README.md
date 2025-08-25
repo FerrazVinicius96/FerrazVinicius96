@@ -57,8 +57,7 @@ Sou ex-advogado em transição para a tecnologia, unindo o raciocínio jurídico
 ### ✨ Repositórios em Destaque
 
 - 🔧 [Sistema de Habilidades em C](https://github.com/FerrazVinicius96/sistema-de-habilidades-em-c) – implementação de matrizes dinâmicas para jogos  
-- 🤖 [Agente IA com LangChain](https://github.com/FerrazVinicius96/agente-ia-langchain) – leitura de PDFs com RAG  
-- 🍪 [Cookieteria](https://github.com/FerrazVinicius96/cookieteria) – planejamento inicial da minha microempresa de cookies
+
 
 ---
 
