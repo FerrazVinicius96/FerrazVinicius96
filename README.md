@@ -18,15 +18,12 @@
 ### Now / Agora
 - 🎓 ADS student (Computer Science, Brazil) · Estudante de ADS
 - 🧪 Practical projects with **Python**, **Docker**, **Raspberry Pi**, **LangChain**
-- 🍪 Small side‑business: premium cookies (because building is fun)
 - 🧰 Tools I like: Notion, Obsidian, VS Code, Git/GitHub
 
 ### Focus / Foco
 - Backend & automation · Raspberry Pi servers · AI‑assisted tooling
 - Clean design, readable code, documented processes
 
-### 📊 GitHub Stats
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerrazVinicius96&show_icons=true&theme=default&hide_title=true)
 
 <!-- Add more featured repos you want to highlight above -->
 
