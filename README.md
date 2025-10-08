@@ -25,8 +25,8 @@
 - Backend & automation · Raspberry Pi servers · AI‑assisted tooling
 - Clean design, readable code, documented processes
 
-### Selected Work / Destaques
-- 🔧 <a href="https://github.com/FerrazVinicius96/sistema-de-habilidades-em-c">Sistema de Habilidades em C</a> — matrizes dinâmicas aplicadas a jogos
+### 📊 GitHub Stats
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerrazVinicius96&show_icons=true&theme=default&hide_title=true)
 
 <!-- Add more featured repos you want to highlight above -->
 
