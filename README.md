@@ -70,7 +70,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FerrazVinicius96&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
